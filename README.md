@@ -45,7 +45,7 @@ Tools
 ### Nova Control
 
 Nova Control is a smart home automation system that connects a web dashboard with IoT devices.
-
+The system is being developed as a full stack platform using Next.js, MongoDB and MQTT to enable real time communication with ESP32 based devices.
 The platform allows users to manage rooms and devices, control electrical appliances, and monitor device states through a web interface.
 
 Core idea:
