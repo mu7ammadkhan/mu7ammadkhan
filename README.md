@@ -74,8 +74,11 @@ Responsive restaurant website built using HTML, CSS, and JavaScript.
 
 ## Connect With Me
 
-LinkedIn  
+# LinkedIn  
 https://www.linkedin.com/in/muhammad-khan-017b8829b
 
-Fiverr  
+# Fiverr  
 https://www.fiverr.com/muhammad_khan67
+
+# Indeed
+https://profile.indeed.com/p/muammadk-34z3311
