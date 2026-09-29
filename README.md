@@ -7,8 +7,8 @@
 I build commercial software for real business operations — from POS and desktop management systems to responsive web applications and IoT automation.
 
 <p align="center">
-  <a href="https://muhammadkhandev.vercel.app" title="Portfolio"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" alt="Portfolio" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mu7ammadkhan" title="GitHub"><img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://muhammadkhandev.vercel.app" title="MK TECH Portfolio"><img src="https://raw.githubusercontent.com/mu7ammadkhan/muhammadkhan.dev/main/public/mk-tech-favicon.svg" alt="MK TECH" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://profile.indeed.com/p/muammadk-34z3311" title="Indeed"><img src="https://cdn.simpleicons.org/indeed/2164F3" alt="Indeed" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/muhammad-khan-017b8829b" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:mu7ammadkhan67@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/923152206451" title="WhatsApp"><img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="32" height="32" /></a>
