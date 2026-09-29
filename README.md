@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer & Software Product Builder
 
-I build commercial software for real business operations — from POS and desktop management systems to responsive web applications and IoT automation.
+I build commercial software for real business operations. My work ranges from POS and desktop management systems to responsive web applications and IoT automation.
 
 <p align="center">
   <a href="https://muhammadkhandev.vercel.app" title="MK TECH Portfolio"><img src="./assets/mk-tech.svg" alt="MK TECH" width="38" height="38" /></a>&nbsp;&nbsp;&nbsp;
@@ -19,13 +19,12 @@ I build commercial software for real business operations — from POS and deskto
 
 </div>
 
----
 
 ## About me
 
 I am the founder and software developer behind **MK TECH**. My work covers commercial desktop products, POS systems, full-stack web applications, responsive business websites and connected IoT systems.
 
-I do more than build screens. I study the real workflow, define the product, design the interface, implement business logic and data, package and deploy the software, and improve it through practical use.
+I do more than build screens. I study the real workflow and define the product. I then design the interface and implement the business logic and data. Finally I package the software, deploy it and improve it through practical use.
 
 - Commercial products and selective collaborations
 - Real business deployments
@@ -35,7 +34,6 @@ I do more than build screens. I study the real workflow, define the product, des
 
 > I start with the business problem, not a generic template.
 
----
 
 ## Commercial products and selected work
 
@@ -51,7 +49,6 @@ A fast desktop system for billing, inventory and day-to-day retail operations. E
 
 [View the EasyMart Plus case study](https://muhammadkhandev.vercel.app/projects/easymart-plus)
 
----
 
 ### Dine Plus
 
@@ -65,7 +62,6 @@ A production-oriented restaurant POS built around ordering, billing, tables, kit
 
 [View the Dine Plus case study](https://muhammadkhandev.vercel.app/projects/dine-plus)
 
----
 
 ### Darzi Plus
 
@@ -79,7 +75,6 @@ An offline-first Windows application designed around the daily workflow of tailo
 
 [View the Darzi Plus case study](https://muhammadkhandev.vercel.app/projects/darzi-plus)
 
----
 
 ### Nova Control
 
@@ -97,7 +92,6 @@ The first version used React and Firebase. The product direction is evolving tow
 
 [View the Nova Control case study](https://muhammadkhandev.vercel.app/projects/nova-control)
 
----
 
 ### ANPR (Automatic Number Plate Recognition System)
 
@@ -111,7 +105,6 @@ A live-camera workflow that detects vehicle plates, extracts plate information a
 
 [View the ANPR case study](https://muhammadkhandev.vercel.app/projects/plate-vision)
 
----
 
 ### Client Web Applications
 
@@ -123,7 +116,6 @@ Responsive websites, landing pages, dashboards, business interfaces and custom w
 
 [View the web application case study](https://muhammadkhandev.vercel.app/projects/full-stack-web)
 
----
 
 ### Restaurant Website
 
@@ -135,7 +127,6 @@ A complete responsive restaurant frontend built with semantic HTML, CSS and Java
 
 [View the Restaurant Website case study](https://muhammadkhandev.vercel.app/projects/desihut)
 
----
 
 ### FlyOrNot Game
 
@@ -145,7 +136,6 @@ An earlier browser-based project created during internship training to strengthe
 
 [View the FlyOrNot case study](https://muhammadkhandev.vercel.app/projects/fly-or-not)
 
----
 
 ## Upcoming commercial products
 
@@ -181,7 +171,6 @@ A secure role-based platform connecting reception staff, doctors and administrat
 
 [View the Clinic Management concept](https://muhammadkhandev.vercel.app/projects/clinic-management-system)
 
----
 
 ## What I build
 
@@ -212,7 +201,6 @@ A secure role-based platform connecting reception staff, doctors and administrat
 - Web Speech API and voice-command workflows
 - Automation for homes, shops and offices
 
----
 
 ## Businesses I can build software for
 
@@ -246,7 +234,6 @@ The named products above are proven examples, not the limit of what I can build.
 
 </details>
 
----
 
 ## Technology and delivery stack
 
@@ -261,7 +248,6 @@ The named products above are proven examples, not the limit of what I can build.
 | IoT | ESP32, MQTT, realtime device control, Web Speech API |
 | Deployment | Git, GitHub, Vercel, Netlify, GitHub Pages, testing and production builds |
 
----
 
 ## Experience
 
@@ -271,13 +257,13 @@ Designing, building and delivering commercial POS products, desktop management s
 
 ### Full-Stack Developer · Nova Control
 
-**March 2024 — Present**
+**March 2024 to Present**
 
 Building a smart automation platform that connects a responsive web dashboard with ESP32 devices. The system started with React and Firebase realtime control and is evolving toward Next.js, TypeScript, MongoDB and MQTT.
 
 ### Freelance Web Developer · Fiverr & Direct Clients
 
-**September 2025 — Present**
+**September 2025 to Present**
 
 Delivering responsive websites, landing pages, dashboards, bug fixes and cross-device improvements using React, JavaScript, TypeScript and modern CSS workflows.
 
@@ -287,17 +273,15 @@ Delivering responsive websites, landing pages, dashboards, bug fixes and cross-d
 
 Worked with React.js and Next.js on component-based interfaces, frontend workflows, teamwork and professional software delivery.
 
----
 
 ## Education and proof of work
 
-- **Bachelor's Degree in Computer Science** — University of Sindh, 2022–2025
-- **FYP Exhibition Award** — Nova Control Smart Home Automation System
-- **Commercial deployments** — Software used in real customer operations
-- **Product ownership** — Planning, UI, application logic, data, packaging, deployment and iteration
-- **Freelance delivery** — Websites, landing pages, dashboards and JavaScript improvements
+- **Bachelor's Degree in Computer Science:** University of Sindh · 2022 to 2025
+- **FYP Exhibition Award:** Nova Control Smart Home Automation System
+- **Commercial deployments:** Software used in real customer operations
+- **Product ownership:** Planning, UI, application logic, data, packaging, deployment and iteration
+- **Freelance delivery:** Websites, landing pages, dashboards and JavaScript improvements
 
----
 
 ## Why work with me
 
@@ -308,7 +292,6 @@ Worked with React.js and Next.js on component-based interfaces, frontend workflo
 - **Client-facing experience:** I handle requirements, revisions and delivery.
 - **Performance mindset:** I prefer lightweight, maintainable engineering over unnecessary complexity.
 
----
 
 ## Let's connect
 
