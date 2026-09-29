@@ -6,9 +6,13 @@
 
 I build commercial software for real business operations — from POS and desktop management systems to responsive web applications and IoT automation.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-muhammadkhandev.vercel.app-52d8df?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadkhandev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-khan-017b8829b)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mu7ammadkhan67@gmail.com)
+<p align="center">
+  <a href="https://muhammadkhandev.vercel.app" title="Portfolio"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" alt="Portfolio" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mu7ammadkhan" title="GitHub"><img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-khan-017b8829b" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mu7ammadkhan67@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/923152206451" title="WhatsApp"><img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="32" height="32" /></a>
+</p>
 
 **Karachi, Pakistan · Products delivered globally**
 
