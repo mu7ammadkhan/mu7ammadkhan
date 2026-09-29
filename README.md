@@ -9,7 +9,7 @@ I build commercial software for real business operations. My work ranges from PO
 <p align="center">
   <a href="https://muhammadkhandev.vercel.app" title="MK TECH Portfolio"><img src="./assets/mk-tech.svg" alt="MK TECH" width="38" height="38" /></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:mu7ammadkhan67@gmail.com" title="Email"><img src="./assets/email.svg" alt="Email" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-khan-017b8829b" title="LinkedIn"><img src="./assets/linkedin.png" alt="LinkedIn" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-khan-017b8829b" title="LinkedIn"><img src="./assets/linkedin.svg" alt="LinkedIn" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://profile.indeed.com/p/muammadk-34z3311" title="Indeed"><img src="./assets/indeed.svg" alt="Indeed" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.fiverr.com/muhammad_khan67" title="Fiverr"><img src="./assets/fiverr.svg" alt="Fiverr" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/923152206451" title="WhatsApp"><img src="./assets/whatsapp.svg" alt="WhatsApp" width="34" height="34" /></a>
