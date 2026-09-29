@@ -7,11 +7,12 @@
 I build commercial software for real business operations — from POS and desktop management systems to responsive web applications and IoT automation.
 
 <p align="center">
-  <a href="https://muhammadkhandev.vercel.app" title="MK TECH Portfolio"><img src="https://raw.githubusercontent.com/mu7ammadkhan/muhammadkhan.dev/main/public/mk-tech-favicon.svg" alt="MK TECH" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://profile.indeed.com/p/muammadk-34z3311" title="Indeed"><img src="https://cdn.simpleicons.org/indeed/2164F3" alt="Indeed" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-khan-017b8829b" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mu7ammadkhan67@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/923152206451" title="WhatsApp"><img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="32" height="32" /></a>
+  <a href="https://muhammadkhandev.vercel.app" title="MK TECH Portfolio"><img src="./assets/mk-tech.svg" alt="MK TECH" width="38" height="38" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mu7ammadkhan67@gmail.com" title="Email"><img src="./assets/email.svg" alt="Email" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-khan-017b8829b" title="LinkedIn"><img src="./assets/linkedin.svg" alt="LinkedIn" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://profile.indeed.com/p/muammadk-34z3311" title="Indeed"><img src="./assets/indeed.svg" alt="Indeed" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.fiverr.com/muhammad_khan67" title="Fiverr"><img src="./assets/fiverr.svg" alt="Fiverr" width="34" height="34" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/923152206451" title="WhatsApp"><img src="./assets/whatsapp.svg" alt="WhatsApp" width="34" height="34" /></a>
 </p>
 
 **Karachi, Pakistan · Products delivered globally**
